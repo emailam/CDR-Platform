@@ -1,0 +1,23 @@
+<cdrs>
+    <cdr>
+        <source>xml1</source>
+        <destination>15559876543</destination>
+        <startTime>2023-01-01T12:30:45</startTime>
+        <service>VOICE</service>
+        <usage>5.5</usage>
+    </cdr>
+    <cdr>
+        <source>xml2</source>
+        <destination>15550001111</destination>
+        <startTime>2023-01-01T14:20:10</startTime>
+        <service>SMS</service>
+        <usage>1.0</usage>
+    </cdr>
+    <cdr>
+        <source>xml3</source>
+        <destination>www.example.com</destination>
+        <startTime>2023-01-01T15:15:00</startTime>
+        <service>DATA</service>
+        <usage>120.75</usage>
+    </cdr>
+</cdrs>

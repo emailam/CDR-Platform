@@ -1,0 +1,4 @@
+source,destination,startTime,service,usage
+csv1,15559876543,2023-01-01T12:30:45,VOICE,5.5
+csv2,15550001111,2023-01-01T14:20:10,SMS,1
+csv3,www.example.com,2023-01-01T15:15:00,DATA,120.75

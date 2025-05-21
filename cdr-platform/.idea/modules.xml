@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cdr-platform.iml" filepath="$PROJECT_DIR$/.idea/cdr-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-backend/ms-backend.iml" filepath="$PROJECT_DIR$/ms-backend/ms-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-loader/ms-loader.iml" filepath="$PROJECT_DIR$/ms-loader/ms-loader.iml" />
+    </modules>
+  </component>
+</project>

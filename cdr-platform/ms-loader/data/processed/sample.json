@@ -1,0 +1,23 @@
+[
+  {
+    "source": "json1",
+    "destination": "15559876543",
+    "startTime": "2023-01-01T12:30:45",
+    "service": "VOICE",
+    "usage": 5.5
+  },
+  {
+    "source": "json2",
+    "destination": "15550001111",
+    "startTime": "2023-01-01T14:20:10",
+    "service": "SMS",
+    "usage": 1.0
+  },
+  {
+    "source": "json3",
+    "destination": "www.example.com",
+    "startTime": "2023-01-01T15:15:00",
+    "service": "DATA",
+    "usage": 120.75
+  }
+]
